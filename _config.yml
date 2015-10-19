@@ -18,9 +18,9 @@ color:
 # Footer settings
 footer:
   copyright: Shazada Nawaz
-  location: Phoenix, AZ
+  location: Location
   social: Around the Web
-  credits: Credits
+  credits: Blog
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -39,7 +39,7 @@ address:
   - line: Phoenix, AZ
 
 # Credits content
-credits: ''
+credits: '<a href="appliedmachinelearningacademy.com">AppliedMachineLearningAcademy.com</a>'
 
 # Build settings
 markdown: kramdown
