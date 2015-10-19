@@ -35,11 +35,11 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 
   - line: Phoenix, AZ
+  - line: United States
 
 # Credits content
-credits: '<a href="appliedmachinelearningacademy.com">AppliedMachineLearningAcademy.com</a>'
+credits: '<a href="http://www.appliedmachinelearningacademy.com">AppliedMachineLearningAcademy.com</a>'
 
 # Build settings
 markdown: kramdown
