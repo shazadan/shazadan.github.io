@@ -21,7 +21,7 @@ footer:
   copyright: Shazada Nawaz
   location: Location
   social: Around the Web
-  credits: Blog
+  credits: I blog on
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -40,7 +40,7 @@ address:
   - line: United States
 
 # Credits content
-credits: '<a href="http://www.appliedmachinelearningacademy.com">AppliedMachineLearningAcademy.com</a>'
+credits: '<a href="http://www.appliedmachinelearningacademy.com">Applied Machine Learning Academy</a>'
 
 # Build settings
 markdown: kramdown
