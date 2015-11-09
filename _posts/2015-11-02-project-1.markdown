@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 1
+title: Data Visualizations
+date: 2015-11-02
+img: visualizations.png
+alt: data-visualizations
+project-date: November 2015
+client: Various
+category: Visualizations
+description: One of the most important aspects of data science is visualization. Managers want to work with data scientists who can tell a clean story about data and do so with diagrams. Business communication is not just about proving a point with scientific rigor. It’s also about convincing your audience and getting them to relate to the point you’re trying to make.
+
+---

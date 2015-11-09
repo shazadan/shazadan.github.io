@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 3
+title: Customer Churn
+date: 2015-10-30
+img: churn.png
+alt: customer churn
+project-date: October 2015
+client: Retail
+category: Professional Assignment
+description: 
+
+---

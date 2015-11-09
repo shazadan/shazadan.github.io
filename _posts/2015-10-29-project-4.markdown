@@ -1,0 +1,13 @@
+---
+layout: default
+modal-id: 4
+title: Sentiment Analysis
+date: 2015-10-29
+img: sentiment.png
+alt: sentiment analysis
+project-date: October 2015
+client: Retail
+category: Professional Assignment
+description: 
+
+---

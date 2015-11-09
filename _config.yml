@@ -2,8 +2,8 @@
 title: Shazada Nawaz
 email: shazadanawaz@gmail.com
 url: https://shazadan.github.io
-description: "Shazada Imran Nawaz, Executive Data Scientist"
-skills: "Data Scientist, Machine Learning Scientist"
+description: "Shazada Imran Nawaz - Senior Data Scientist and Management Consultant. "
+skills: "Senior Data Scientist"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -11,8 +11,8 @@ contact: static
 # Color settings (hex-codes without the leading hash-tag)
 color:
   #primary: 18bc9c #80B3FF
-  primary: 53443E #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
+  primary: 4CA3B0 #80B3FF
+  primary-rgb: "76,163,176" #"128,179,255"
   secondary: 2c3e50 #FD6E8A
   secondary-dark: 233140 #A2122F
 
@@ -20,27 +20,28 @@ color:
 footer:
   copyright: Shazada Nawaz
   location: Location
-  social: Around the Web
-  credits: I blog on
+  social: Around the web
+  credits: 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
     url: http://twitter.com/shazadanawaz
+  - title: facebook
+    url: http://facebook.com/amlacademy
   - title: linkedin
     url: https://www.linkedin.com/in/shazadan
-  - title: facebook
-    url: http://facebook.com/shazada.nawaz
   - title: github
     url: http://github.com/shazadan
 
+
 # Postal address (add as many lines as necessary)
 address:
-  - line: Phoenix, AZ
+  - line: Phoenix, Arizona
   - line: United States
 
 # Credits content
-credits: '<a href="http://www.appliedmachinelearningacademy.com">Applied Machine Learning Academy</a>'
+credits: 
 
 # Build settings
 markdown: kramdown
